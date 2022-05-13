@@ -20,7 +20,7 @@ func init() {
 }
 
 // content holds our static web server content.
-// AriaNg 1.2.1
+// Yet Another Clash Dashboard 0.3.4
 //go:embed www/*
 var www embed.FS
 
